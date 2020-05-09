@@ -56,11 +56,11 @@
                                     <label class="label">Gender</label>
                                     <div class="p-t-10">
                                         <label class="radio-container m-r-45">Male
-                                            <input type="radio" checked="checked" id="gender" name="gender">
+                                            <input type="radio"  value="male" id="gender" name="gender">
                                             <span class="checkmark"></span>
                                         </label>
                                         <label class="radio-container">Female
-                                            <input type="radio" id="gender" name="gender">
+                                            <input type="radio" value="female" id="gender" name="gender">
                                             <span class="checkmark"></span>
                                         </label>
                                     </div>
