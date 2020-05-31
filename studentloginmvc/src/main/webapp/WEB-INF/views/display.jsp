@@ -133,9 +133,9 @@ td {
 			<tbody>
 				<tr>
 					<td>${student.getName()}</td>
-					<td>${student.getDateOfBirth()}</td>
+					<td>${student.getDateofbirth()}</td>
 					<td>${student.getBranch()}</td>
-					<td>${student.getYearOfCompletion()}</td>
+					<td>${student.getYearofcompletion()}</td>
 					<td>${student.getBranch()}</td>
 					<td>${student.getFee()}</td>
 				</tr>
